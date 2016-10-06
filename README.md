@@ -1,0 +1,3 @@
+# react-middle-router
+
+Proof of concept so far. Stay tuned...
