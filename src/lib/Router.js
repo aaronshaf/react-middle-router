@@ -1,5 +1,6 @@
 import React from 'react'
 import MiddleRouter from 'middle-router'
+import { PrismCode } from 'react-prism'
 
 export default React.createClass({
   displayName: 'Route',

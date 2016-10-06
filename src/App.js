@@ -47,7 +47,7 @@ class App extends Component {
             </ul>
           </Router>
         </Router>
-<pre style={{backgroundColor: '#eee', padding: '12px'}}>{`<Router hash='#'>
+<PrismCode className="language-javascript">{`<Router hash='#'>
   <ul>
     <li>
       /
@@ -87,7 +87,7 @@ class App extends Component {
     </ul>
   </Router>
 </Router>
-`}</pre>
+`}</PrismCode>
       </div>
     )
   }
