@@ -1,7 +1,7 @@
-import React from 'react'
-import MiddleRouter from 'middle-router'
+const React = require('react')
+const MiddleRouter = require('middle-router')
 
-export default React.createClass({
+module.exports = React.createClass({
   displayName: 'Route',
 
   propTypes: {

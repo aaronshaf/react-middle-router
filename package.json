@@ -1,11 +1,15 @@
 {
   "name": "react-middle-router",
   "author": "Aaron Shafovaloff <aaronshaf@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "devDependencies": {
     "now-serve": "^0.5.0",
     "react-scripts": "0.6.1"
   },
+  "main": "src/lib/Router.js",
+  "files": [
+    "src/lib/Router.js"
+  ],
   "dependencies": {
     "middle-router": "^2.1.1",
     "react": "^15.3.2",
