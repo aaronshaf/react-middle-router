@@ -1,3 +1,5 @@
 # react-middle-router
 
-Proof of concept so far. Stay tuned...
+Example:
+
+https://react-middle-router.now.sh/
